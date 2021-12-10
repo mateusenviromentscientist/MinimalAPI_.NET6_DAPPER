@@ -1,0 +1,10 @@
+C:\Users\117747\dev\TodoAppMinimalApi\TodoApp\UserDB\bin\Debug\UserDB.dacpac
+C:\Users\117747\dev\TodoAppMinimalApi\TodoApp\UserDB\bin\Debug\UserDB.dll
+C:\Users\117747\dev\TodoAppMinimalApi\TodoApp\UserDB\bin\Debug\UserDB.pdb
+C:\Users\117747\dev\TodoAppMinimalApi\TodoApp\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+C:\Users\117747\dev\TodoAppMinimalApi\TodoApp\UserDB\obj\Debug\UserDB.dll
+C:\Users\117747\dev\TodoAppMinimalApi\TodoApp\UserDB\obj\Debug\UserDB.pdb
+C:\Users\117747\dev\TodoAppMinimalApi\TodoApp\UserDB\obj\Debug\Model.xml
+C:\Users\117747\dev\TodoAppMinimalApi\TodoApp\UserDB\obj\Debug\refactor.xml
+C:\Users\117747\dev\TodoAppMinimalApi\TodoApp\UserDB\obj\Debug\postdeploy.sql
+C:\Users\117747\dev\TodoAppMinimalApi\TodoApp\UserDB\obj\Debug\predeploy.sql

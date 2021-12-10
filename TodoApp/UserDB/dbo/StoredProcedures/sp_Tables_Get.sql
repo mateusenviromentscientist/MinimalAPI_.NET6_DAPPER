@@ -1,0 +1,7 @@
+﻿CREATE PROCEDURE [dbo].[sp_Tables_Get]	
+AS
+BEGIN
+SELECT Id, Name
+FROM
+[dbo].INTERFACES
+END

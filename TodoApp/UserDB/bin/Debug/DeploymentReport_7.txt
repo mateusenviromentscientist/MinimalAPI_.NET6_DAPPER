@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[sp_Company_Delete] (Procedure)
+       [dbo].[sp_Company_Get] (Procedure)
+       [dbo].[sp_Company_GetAll] (Procedure)
+       [dbo].[sp_Company_Insert] (Procedure)
+       [dbo].[sp_Company_Update] (Procedure)
+
+** Supporting actions
